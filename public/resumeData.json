@@ -99,6 +99,12 @@
         "category": "",
         "image": "gmail.png",
         "url": "https://clone-7c9e5.web.app/"
+      },
+      {
+        "title": "Todo List App (React JS + ChakraUI)",
+        "category": "",
+        "image": "gmail.png",
+        "url": "https://blissful-darwin-fcc64d.netlify.app/"
       }
     ]
   },
